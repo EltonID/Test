@@ -1,4 +1,4 @@
-# Load packages
+# Load packages required
 library(shiny)
 library(shinythemes)
 library(dplyr)
